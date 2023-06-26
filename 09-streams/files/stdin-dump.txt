@@ -1,0 +1,8 @@
+Hello
+This
+is
+Stream
+node stdin-pipe-stdout.js
+Hello Node js
+
+
